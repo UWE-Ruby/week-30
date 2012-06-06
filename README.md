@@ -6,18 +6,8 @@ application it becomes difficult to understand where to improve performance.
 Without understanding the current performance, it is difficult to understand
 what to change.
 
-### Exercise
-
-#### Goal
-
-### Retrospective
-
 ### Reading
 
 Coda Hale's - [Metrics, Metrics, Everywhere](http://codahale.com/codeconf-2011-04-09-metrics-metrics-everywhere.pdf)
 
-[SQL Caching](http://guides.rubyonrails.org/caching_with_rails.html#sql-caching)
-
-
-### Further Exercise
-
+[Rails Guide on Caching](http://guides.rubyonrails.org/caching_with_rails.html)
